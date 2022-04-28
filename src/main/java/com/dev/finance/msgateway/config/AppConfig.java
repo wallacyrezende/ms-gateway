@@ -1,4 +1,4 @@
-package com.dev.finance.apigatewayzuul.config;
+package com.dev.finance.msgateway.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.cloud.context.config.annotation.RefreshScope;

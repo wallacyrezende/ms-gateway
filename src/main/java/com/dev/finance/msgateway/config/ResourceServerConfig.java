@@ -1,4 +1,4 @@
-package com.dev.finance.apigatewayzuul.config;
+package com.dev.finance.msgateway.config;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
